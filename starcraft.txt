@@ -5,5 +5,3 @@
 aaaaaaaaaa
 cccccccccc
 reset
-
-
